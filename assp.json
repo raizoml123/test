@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Sports",
+    "samples": [
+      {
+        "name": "Astro SuperSport 1",
+        "uri": "https://webudit.webdicdn.lol/lb/premium123/index.m3u8",
+        "logo_uri": "https://i.imgur.com/YqQIrY0.png",
+	"referer" : "https://streamservicehd.click/",
+	"drm_scheme" : "hls",
+	"drm_license_url" : "https://run.mocky.io/v3/1e5c63d2-65d2-4abb-80a5-03fe67cfa845"
+      }
+    ]
+  }
+]
