@@ -1,6 +1,15 @@
-
-
 [
+  {
+    "name": "4K",
+    "samples": [
+      {
+        "name": "Retribution (2023)",
+        "uri": "https://muvi3.mubi-vod.workers.dev/0:/movie/4k/2023.rtribtion.4k.mp4",
+        "logo_uri": "https://m.media-amazon.com/images/M/MV5BNTEwYTMyNmUtNmU5OS00NTg2LTk4ZjEtOGJlZWViMWFlMjY1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@.jpg"
+      }
+    ]
+  },
+
   {
     "name": "Sports",
     "samples": [
@@ -11,6 +20,7 @@
 	"drm_scheme" : "hls",
 	"referrer" : "https://streamservicehd.click",
 	"drm_license_url" : "https://run.mocky.io/v3/1e5c63d2-65d2-4abb-80a5-03fe67cfa845"
-      }
+       }
     ]
-  
+  }
+]
